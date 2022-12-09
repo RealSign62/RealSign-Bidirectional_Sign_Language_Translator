@@ -7,7 +7,7 @@ This project aims to close the gap of communication between those who are hard o
 2. Since we predict fingerspelled ISL gestures, we uploaded the letters in the letters folder. 
 3. A speech to text library. We used deepspeech model for our project. But any other libraries/APIs can be used. 
 
-### The file structure is as follows:
+### The Application file structure (Present in RealSign folder) is as follows:
 RealSign.py has the base application code. 
   - Letters - This folder contains the fingerspelled ISL alphabet images. 
   - Pages - This folder contains two code files.

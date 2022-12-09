@@ -4,9 +4,12 @@ This project aims to close the gap of communication between those who are hard o
 
 ### Our team members include:
 [Ankith Boggaram](https://github.com/Ankithboggaram/) 
+
 [Aaptha Boggaram](https://github.com/Aaptha0204)
+
 [Aryan Sharma](https://github.com/aryan2090)
-[Ashwin Srinivasa Ramanujan](https://github.com/aryan2090) 
+
+[Ashwin Srinivasa Ramanujan](https://github.com/ashwin-0911) 
 
 ### Checklist before running the code
 1. Make sure you have a saved model trained on a sign language database that you can use to predict *Static* sign language gestures. 

@@ -15,7 +15,7 @@ RealSign.py has the base application code.
 
 The Application has been created using streamlit. To run the code, clone the repository. Run the following command:
 
-`Streamlit run RealSign.py`
+`streamlit run RealSign.py`
 
 Our team has also published a systematic literature review on sign language translation systems. You can find the paper [here](https://www.igi-global.com/gateway/article/311448).
 

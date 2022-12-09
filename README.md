@@ -2,19 +2,9 @@
 
 This project aims to close the gap of communication between those who are hard of hearing and those who are not. Real-time bidirectional Indian sign language (ISL) can be carried out with the help of this application. 
 
-### Our team members include:
-[Ankith Boggaram](https://github.com/Ankithboggaram/) 
-
-[Aaptha Boggaram](https://github.com/Aaptha0204)
-
-[Aryan Sharma](https://github.com/aryan2090)
-
-[Ashwin Srinivasa Ramanujan](https://github.com/ashwin-0911) 
-
 ### Checklist before running the code
-1. Make sure you have a saved model trained on a sign language database that you can use to predict *Static* sign language gestures. 
-2. Since we predict fingerspelled ISL gestures, we uploaded the letters in the letters folder. 
-3. A speech to text library. We used deepspeech model for our project. But any other libraries/APIs can be used. 
+1. A saved mdeep learning model that is trained on an image dataset.
+2. A speech-to-text library. We used DeepSpeech model for our project. But any other libraries/APIs can be used. 
 
 ### The Application file structure (Present in RealSign folder) is as follows:
 RealSign.py has the base application code. 
@@ -28,3 +18,12 @@ The Application has been created using streamlit. To run the code, clone the rep
 `Streamlit run RealSign.py`
 
 Our team has also published a systematic literature review on sign language translation systems. You can find the paper [here](https://www.igi-global.com/gateway/article/311448).
+
+### Our team members include:
+[Ankith Boggaram](https://github.com/Ankithboggaram/) 
+
+[Aaptha Boggaram](https://github.com/Aaptha0204)
+
+[Aryan Sharma](https://github.com/aryan2090)
+
+[Ashwin Srinivasa Ramanujan](https://github.com/ashwin-0911) 

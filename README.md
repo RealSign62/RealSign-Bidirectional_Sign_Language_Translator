@@ -2,6 +2,12 @@
 
 This project aims to close the gap of communication between those who are hard of hearing and those who are not. Real-time bidirectional Indian sign language (ISL) can be carried out with the help of this application. 
 
+### Our team members include:
+@Ankithboggaram
+@aaptha0204
+
+@aryan2090
+
 ### Checklist before running the code
 1. Make sure you have a saved model trained on a sign language database that you can use to predict *Static* sign language gestures. 
 2. Since we predict fingerspelled ISL gestures, we uploaded the letters in the letters folder. 

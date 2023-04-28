@@ -3,7 +3,7 @@
 This project aims to close the gap of communication between those who are hard of hearing and those who are not. Real-time bidirectional Indian sign language (ISL) can be carried out with the help of this application. 
 
 ### Checklist before running the code
-1. A saved mdeep learning model that is trained on an image dataset.
+1. A saved Deep Learning model that is trained on an image dataset.
 2. A speech-to-text library. We used DeepSpeech model for our project. But any other libraries/APIs can be used. 
 
 ### The Application file structure (Present in RealSign folder) is as follows:
